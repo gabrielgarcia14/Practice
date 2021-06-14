@@ -1,5 +1,5 @@
 # Practice
-In this folder I will add practical exercises related to Python and Machine Learning
+In this repo I will add practical exercises related to Python and Machine Learning
 
 ### Archives
 
